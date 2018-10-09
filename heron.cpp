@@ -6,6 +6,12 @@ This program calculates a triangles perimeter and area based on inputted side le
 Could improve by verifying that a triangle's length are viable.
 */
 
+// need to declare 3 variables and then get user input into those 3 variables
+// declare variables at begining of main function
+// area would be the calculation of the 3 variables 
+// name file heron.cpp
+// no push operator and endl for cin
+
 using namespace std;
 	int main() {
 		double firstside;
