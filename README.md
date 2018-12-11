@@ -1,1 +1,1 @@
-"# Program-in-Computing-10A-UCLA" 
+"Collection of coding assignments in C++ at UCLA" 
